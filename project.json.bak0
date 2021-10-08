@@ -1,0 +1,15 @@
+{
+    "project_name": "Planet_Storm",
+    "origin": "The primary repo for Planet_Storm goes here: i.e. http://www.mydomain.com",
+    "license": "What license Planet_Storm uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Planet_Storm",
+    "summary": "A short description of Planet_Storm.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Planet_Storm"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de"
+}

@@ -1,0 +1,14 @@
+{
+    "Amazon":
+    {
+        "Planet_Storm.Assets":
+        {
+            "SourcePaths":
+            [
+                "Assets",
+                "ShaderLib",
+                "Shaders"
+            ]
+        }
+    }
+}
